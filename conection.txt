@@ -1,0 +1,3 @@
+q9e3K3GvDXyeTZGE
+rinkeshthakur1997
+mongodb+srv://rinkeshthakur1997:q9e3K3GvDXyeTZGE@tenantlandlordcluster.eaboahg.mongodb.net/?retryWrites=true&w=majority&appName=TenantLandlordCluster
